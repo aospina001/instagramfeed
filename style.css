@@ -1,0 +1,43 @@
+/* * {
+    border: red 1px solid !important;
+} */
+.navbar-container {
+    display: flex;
+    width: 100%;
+}
+.navbar-container-left {
+    width: 90%;
+}
+.navbar-logo{
+    margin: 5px;
+}
+.navbar-container-right {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+.navbar, nav {
+    
+}
+.fa-instagram{
+    font-size: 25px;
+    padding: 5px;
+    margin: 5px;
+}
+.tab-content {
+    display: flex;
+    justify-content: center;
+}
+.card-body {
+    
+}
+.card-body-buttons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+#home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
