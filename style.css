@@ -28,8 +28,8 @@
     display: flex;
     justify-content: center;
 }
-.card-body {
-    
+.card {
+    margin-top: 15px;
 }
 .card-body-buttons {
     display: flex;
